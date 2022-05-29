@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Alegreya';
+    line-height: 1.5em;
+    background-image: url("/Techcampus\ Image.png");
+    background-size: 300px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+h1 {
+    background-color: rgb(171, 171, 205);
+}
+
+h2 {
+    background-color: rgb(254, 254, 92);
+}
+
+h3 {
+    background-color: #504B5B;
+}
+
+h4 {
+    background-color: #3CBCBE;
+}
+
+h5 {
+    background-color: hsl(210, 63%, 50%);
+}
+
+h6 {
+    background-color: hsl(210, 63%, 50%, 0.5);
+}
